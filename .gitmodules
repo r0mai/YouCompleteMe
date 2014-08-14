@@ -1,9 +1,9 @@
 [submodule "third_party/requests-futures"]
 	path = third_party/requests-futures
-	url = https://github.com/ross/requests-futures
+	url = git@github.com:ross/requests-futures.git
 [submodule "third_party/requests"]
 	path = third_party/requests
-	url = https://github.com/kennethreitz/requests
+	url = git@github.com:kennethreitz/requests.git
 [submodule "third_party/ycmd"]
 	path = third_party/ycmd
-	url = https://github.com/Valloric/ycmd
+	url = git@github.com:Valloric/ycmd.git
